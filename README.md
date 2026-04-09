@@ -1,6 +1,6 @@
 # V2 Reconstruction
 
-Edit the config in `recover_stock_price_v2.py`, then run:
+Look at the config in `recover_stock_price_v2.py`, then run:
 
 ```bash
 python recover_stock_price_v2.py
